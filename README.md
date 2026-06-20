@@ -1,2 +1,3 @@
 # HomeLab
-Enterprise-style cybersecurity home lab built with Hyper-V, Active Directory, DNS, DHCP Failover, OPNsense, Windows Server, Linux, file services, and security monitoring.
+Personal cybersecurity and IT infrastructure lab showcasing hands-on experience with Active Directory administration, Windows Server, networking, virtualization, firewalls, Group Policy, file services, and security monitoring. Built to support continuous learning and practical enterprise IT experience.
+
