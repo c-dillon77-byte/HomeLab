@@ -56,7 +56,7 @@ From the [lab overview](docs/lab-overview.md):
 
 ## 📋 Documentation checklist
 Things to add (screenshots and configs only I have). **Remove anything sensitive first:** passwords,
-public IPs, MAC addresses, license keys, real usernames or domain names you don't want public.
+public IPs, MAC addresses, license keys, real usernames or domain names I don't want public.
 
 **Diagram**
 - [ ] Export `diagrams/network-topology.drawio` to PNG/SVG (`diagrams/network-topology.png`) and embed it at the top of this README
